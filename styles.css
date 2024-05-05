@@ -158,3 +158,8 @@ body {
 .construction-icon {
     animation: shake 1s ease-in-out infinite;
 }
+
+.logo {
+    width: 100px; 
+    height: auto; 
+}
